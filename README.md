@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Classic Joe Shmoe with a heart for technology and a brain that tries to keep up with whatever I'm excited about. 
 
                               \\\\\\\
@@ -22,4 +21,3 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |===========,'
--->
