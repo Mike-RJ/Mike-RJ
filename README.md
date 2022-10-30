@@ -4,3 +4,4 @@ I write a technical blog on my GitHub pages ([mike-rj.github.io](https://mike-rj
 
 Lastly, if you're wondering what my profile photo is - I generated it using the [Midjourney Bot](https://www.midjourney.com). 
 
+![mike-rj-profile-photo](./mike-rj-profile.png)
